@@ -1,0 +1,18 @@
+EmployeeID,Name,Department,JoinDate,Salary,Email
+201,Alice  Smith,Engineering,3/15/2021,85000,ALICE.SMITH@example.com
+202,Bob Jones,Engineering,7/1/2021,85000,bob.jones@example.com
+203,Charlie   Johnson,Sales,11/20/2020,73000,charlie.j@example.com
+204,Dana Lee,HR,2/28/2021,,dana.lee@example
+205,Evan Wright,Engineering,15-08-2019,92000,evanwright@example.com
+206,Fiona   Brown,Engineering,6/1/2020,85000,FIONA.BROWN@example.com
+207,George Adams,Sales,11/20/2020,73k,george.adams@example.com
+208,Henry   Clark,Sales,11/20/2020,73000,henry.clark@example.com
+209,Ivy Davis,HR,1/12/2022,68 000,ivydavis@example.com
+210,Jack White,Finance,9/1/2021,75000,JACKWHITE@Example.com
+211,Alice  Smith,Engineering,3/15/2021,85000,ALICE.SMITH@example.com
+212,Kate Miller,Finance,2021-09-31,77000,kate.miller@example.com
+213,Liam Scott,Finance,9/1/2021,seven8000,liam.scott@example.com
+214,Mia Lopez,Sales,11/20/2020,73000,mia.lopez@example.com
+215,Noah   Young,Engineering,7/1/2021,85000,noahyoung@example.com
+205,Evan Wright,Engineering,15-08-2019,92000,evanwright@example.com
+210,Jack White,Finance,9/1/2021,75000,JACKWHITE@Example.com
